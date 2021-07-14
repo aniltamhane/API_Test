@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="API Test Suite" duration-ms="8664" started-at="2021-07-14T03:11:53Z" finished-at="2021-07-14T03:12:02Z">
+    <groups>
+    </groups>
+    <test name="Testing API" duration-ms="8664" started-at="2021-07-14T03:11:53Z" finished-at="2021-07-14T03:12:02Z">
+      <class name="testCases.TestGetResponse">
+        <test-method status="PASS" signature="testGet()[pri:1, instance:testCases.TestGetResponse@cb5822]" name="testGet" duration-ms="8568" started-at="2021-07-14T03:11:53Z" finished-at="2021-07-14T03:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGet -->
+        <test-method status="PASS" signature="verifyParticipants()[pri:4, instance:testCases.TestGetResponse@cb5822]" name="verifyParticipants" duration-ms="17" started-at="2021-07-14T03:12:02Z" finished-at="2021-07-14T03:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyParticipants -->
+        <test-method status="PASS" signature="verifyActivity()[pri:2, instance:testCases.TestGetResponse@cb5822]" name="verifyActivity" duration-ms="0" started-at="2021-07-14T03:12:02Z" finished-at="2021-07-14T03:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyActivity -->
+        <test-method status="PASS" signature="verifyType()[pri:3, instance:testCases.TestGetResponse@cb5822]" name="verifyType" duration-ms="0" started-at="2021-07-14T03:12:02Z" finished-at="2021-07-14T03:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyType -->
+        <test-method status="PASS" signature="verifyPrice()[pri:5, instance:testCases.TestGetResponse@cb5822]" name="verifyPrice" duration-ms="0" started-at="2021-07-14T03:12:02Z" finished-at="2021-07-14T03:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPrice -->
+        <test-method status="PASS" signature="verifyLink()[pri:6, instance:testCases.TestGetResponse@cb5822]" name="verifyLink" duration-ms="31" started-at="2021-07-14T03:12:02Z" finished-at="2021-07-14T03:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLink -->
+        <test-method status="PASS" signature="verifyKey()[pri:7, instance:testCases.TestGetResponse@cb5822]" name="verifyKey" duration-ms="0" started-at="2021-07-14T03:12:02Z" finished-at="2021-07-14T03:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKey -->
+        <test-method status="PASS" signature="verifyAccessibility()[pri:8, instance:testCases.TestGetResponse@cb5822]" name="verifyAccessibility" duration-ms="0" started-at="2021-07-14T03:12:02Z" finished-at="2021-07-14T03:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccessibility -->
+      </class> <!-- testCases.TestGetResponse -->
+    </test> <!-- Testing API -->
+  </suite> <!-- API Test Suite -->
+</testng-results>
